@@ -1,2 +1,7 @@
 # class-objects-interfaces
-php interface
+
+custom php interface
+
+```
+ composer update && composer install --ignore-platform-reqs --optimize-autoloader --no-dev --no-interaction 
+```
