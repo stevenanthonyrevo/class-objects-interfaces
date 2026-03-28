@@ -1,0 +1,16 @@
+{
+    "name": "root/sample",
+    "autoload": {
+        "psr-4": {
+            "Root\\Sample\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Steven Anthony"
+        }
+    ],
+    "require": {
+        
+    }
+}
